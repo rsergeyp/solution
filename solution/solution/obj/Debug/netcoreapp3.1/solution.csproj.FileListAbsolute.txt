@@ -1,0 +1,11 @@
+C:\Users\oberc\source\repos\solution\solution\solution\bin\Debug\netcoreapp3.1\solution.exe
+C:\Users\oberc\source\repos\solution\solution\solution\bin\Debug\netcoreapp3.1\solution.deps.json
+C:\Users\oberc\source\repos\solution\solution\solution\bin\Debug\netcoreapp3.1\solution.runtimeconfig.json
+C:\Users\oberc\source\repos\solution\solution\solution\bin\Debug\netcoreapp3.1\solution.runtimeconfig.dev.json
+C:\Users\oberc\source\repos\solution\solution\solution\bin\Debug\netcoreapp3.1\solution.dll
+C:\Users\oberc\source\repos\solution\solution\solution\bin\Debug\netcoreapp3.1\solution.pdb
+C:\Users\oberc\source\repos\solution\solution\solution\obj\Debug\netcoreapp3.1\solution.csprojAssemblyReference.cache
+C:\Users\oberc\source\repos\solution\solution\solution\obj\Debug\netcoreapp3.1\solution.AssemblyInfoInputs.cache
+C:\Users\oberc\source\repos\solution\solution\solution\obj\Debug\netcoreapp3.1\solution.AssemblyInfo.cs
+C:\Users\oberc\source\repos\solution\solution\solution\obj\Debug\netcoreapp3.1\solution.dll
+C:\Users\oberc\source\repos\solution\solution\solution\obj\Debug\netcoreapp3.1\solution.pdb
